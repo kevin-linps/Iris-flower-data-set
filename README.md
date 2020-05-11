@@ -13,7 +13,7 @@ In this project, I explored the famous Iris Flower Data Set with classifiers in 
 3. *Iris Flower Data Set 03 - Decision Tree*: training classifiers using DecisionTreeClassifier in scikit-learn, evaluate their precision and produce a dichotomous key for the three iris species in the data set
 
 
-## Experiment Results
+## Experiment results
 
 The summary of the training and testing results are shown below in Table 1. Although both models have the same performance, Decision Tree can produce dichotomous key as an additional product. This is particularly good in this case since it offers humans a way to classify different species of iris flowers without relying on machines.
 
