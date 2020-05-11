@@ -15,7 +15,7 @@ In this project, I explored the famous Iris Flower Data Set with classifiers in 
 
 ## Experiment Results
 
-The summary of the training and testing results are shown below in Table 1. Although both models have the same performance, Decision Tree can produce dichotomous key as an additional product. This is particularly good in this case since it offers humans a way of classifying different species of iris flowers without machines.
+The summary of the training and testing results are shown below in Table 1. Although both models have the same performance, Decision Tree can produce dichotomous key as an additional product. This is particularly good in this case since it offers humans a way to classify different species of iris flowers without relying on machines.
 
 Table 1. Accuracy of models built in this project
 |               | Linear SVM    | Decision Tree |
